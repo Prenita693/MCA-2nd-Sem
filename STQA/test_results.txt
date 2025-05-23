@@ -1,0 +1,7 @@
+Test Case 1: Inputs=(2,3), Expected=5, Actual=5 --> PASS
+Test Case 2: Inputs=(10,20), Expected=30, Actual=30 --> PASS
+Test Case 3: Inputs=(5,5), Expected=10, Actual=10 --> PASS
+Test Case 4: Inputs=(1,1), Expected=2, Actual=2 --> PASS
+Test Case 5: Inputs=(0,0), Expected=0, Actual=0 --> PASS
+Test Case 6: Inputs=(100,200), Expected=300, Actual=300 --> PASS
+Test Case 7: Inputs=(4,5), Expected=8, Actual=9 --> FAIL
